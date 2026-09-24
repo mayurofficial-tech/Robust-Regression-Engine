@@ -1,0 +1,2 @@
+selected_model_by_test_rmse,test_rmse,test_mae,test_r2,note
+Random Forest,2420193.2748683114,1773299.4123774746,0.9272698432572184,Selection is based on this synthetic dataset and should be revalidated with the official dataset.
